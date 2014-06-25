@@ -1,0 +1,5 @@
+Controlador de motor de passo baseado em transistores NPN e um Darlington Array ULN2003A.
+
+Trata-se de uma dupla ponte H controlada por um ATTINY85.
+
+
